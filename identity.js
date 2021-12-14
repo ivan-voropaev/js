@@ -21,7 +21,7 @@ $(document).ready(() => {
         }
     })
     
-    mgr.events.addUserSignedOut(() => {
-        window.location.replace(window.location.origin + '/womanleader/index');
-    })
+//     mgr.events.addUserSignedOut(() => {
+//         window.location.replace(window.location.origin + '/womanleader/index');
+//     })
 })
